@@ -1,4 +1,4 @@
-name: 'Python Safety Check'
+name: 'Python Safety Checker'
 description: 'Helps to find known security vulnerabilities in your python application'
 author: aufdenpunkt
 inputs:

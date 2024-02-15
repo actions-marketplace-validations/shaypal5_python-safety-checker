@@ -1,4 +1,4 @@
-# Python safety check
+# Python safety checker
 
 This GitHub action is helpful to find known security vulnerabilities in your python application.
 
